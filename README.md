@@ -1,5 +1,10 @@
 # National Trade Forensics Pipeline
 
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Model%20Status-Tested%20%26%20Validated-brightgreen.svg)
+![Focus](https://img.shields.io/badge/Domain-National%20Trade%20Audit-orange.svg)
+
 > **Note**: This repository provides a **tested and validated forensic model** designed to help researchers, economists, and technical auditors investigate national trade data for anomalies, tariff code misclassifications, and potential trade misinvoicing (under-invoicing / over-invoicing).
 
 The pipeline operates on line-item trade statistics using dual statistical techniques:
