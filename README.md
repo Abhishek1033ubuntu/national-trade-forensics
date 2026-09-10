@@ -84,7 +84,3 @@ Input datasets must contain the following core attributes:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for details.
-
-```
-
----
