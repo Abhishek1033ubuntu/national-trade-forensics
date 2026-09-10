@@ -5,6 +5,10 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Model%20Status-Tested%20%26%20Validated-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/Domain-National%20Trade%20Audit-orange.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22695564.svg)](https://doi.org/10.5281/zenodo.22695564)
+
+
+---
 
 > **Note**: This repository provides a **tested and validated forensic model** designed to help researchers, economists, and technical auditors investigate national trade data for anomalies, tariff code misclassifications, and potential trade misinvoicing (under-invoicing / over-invoicing).
 
