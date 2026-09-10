@@ -1,4 +1,3 @@
-```markdown
 # National Trade Forensics Pipeline
 
 > **Note**: This repository provides a **tested and validated forensic model** designed to help researchers, economists, and technical auditors investigate national trade data for anomalies, tariff code misclassifications, and potential trade misinvoicing (under-invoicing / over-invoicing).
@@ -89,11 +88,3 @@ Distributed under the MIT License. See `LICENSE` for details.
 ```
 
 ---
-
-### Key Fixes Applied
-
-* **LaTeX Equations**: Blank lines were added before and after every `$$...$$` block to force GitHub to treat them as standalone mathematical equations rather than inline prose.
-* **Table Reconstruction**: Restored the pipe (`|`) boundaries and explicit header separator line (`| :--- | :--- | :--- |`) so GitHub renders a formatted HTML table.
-* **List Separation**: Added double line breaks between numbered sections to prevent list items from concatenating.
-
-```
