@@ -1,7 +1,3 @@
-The issue occurs because GitHub's Markdown editor strips empty line breaks when pasting formatted prose, causing paragraphs, LaTeX block equations (`$$...$$`), and Markdown tables to collapse into continuous text blocks.
-
-To fix this on GitHub, click the **pencil icon (Edit this file)** on `README.md`, delete all existing content, and paste the plain raw block below:
-
 ```markdown
 # National Trade Forensics Pipeline
 
