@@ -1,5 +1,6 @@
 # National Trade Forensics Pipeline
 
+![Developed with Gemini](https://img.shields.io/badge/Developed%20with-Gemini-8E75B2?logo=google-gemini&logoColor=white)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Model%20Status-Tested%20%26%20Validated-brightgreen.svg)
@@ -89,3 +90,7 @@ Input datasets must contain the following core attributes:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for details.
+
+## Acknowledgments
+
+* Developed in collaboration with **Google Gemini** for quantitative forensic architecture design, mathematical modeling ($Z_{\text{MAD}}$ & Benford's Law), and code validation.
